@@ -30,7 +30,8 @@
 			"vscjava.vscode-java-pack",
 			"redhat.java",
 			"vscjava.vscode-maven",
-			"vscjava.vscode-java-test"
+			"vscjava.vscode-java-test",
+			"vscjava.vscode-java-dependency"
 		]
 	}
   },
