@@ -23,7 +23,16 @@
   "customizations" : {
     "jetbrains" : {
       "backend" : "IntelliJ"
-    }
+	},
+	"vscode": {
+		"extensions": [
+			"vscjava.vscode-java-debug",
+			"vscjava.vscode-java-pack",
+			"redhat.java",
+			"vscjava.vscode-maven",
+			"vscjava.vscode-java-test"
+		]
+	}
   },
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
